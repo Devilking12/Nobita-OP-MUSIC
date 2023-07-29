@@ -1,7 +1,7 @@
 {
-    "name": "KHUSHI OP",
+    "name": "Noob Nobita",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/ebf34649780915d5951fe.jpg",
+    "logo": "https://te.legra.ph/file/d42102f79fade253b79aa.png",
     "keywords": [
     "python3",
     "telegram",
@@ -35,7 +35,7 @@
       },
       "DURATION_LIMIT_MIN": {
         "description": "Maximum duration that your bot can play in minutes.",
-        "value": "90",
+        "value": "1000",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -49,7 +49,7 @@
         "required": true
       },
       "MUSIC_BOT_NAME": {
-        "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
+        "description": "A name for your Music Bot. You can use special characters bot ko gaand farak ni padega",
         "value": "",
         "required": false
       },
@@ -94,12 +94,12 @@
         "required": false
       },
       "LOG_GROUP_ID": {
-        "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
+        "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. beta tumse na ho payega.",
         "value": "",
         "required": true
       },
       "SUPPORT_GROUP": {
-        "description": "Link of your support group ! Channel ki id mat daal dena bsdk.",
+        "description": "Link of your support group ! tu rehne de bsdk.",
         "value": "",
         "required": false
       },
