@@ -5,7 +5,7 @@
 <br><b>  ˹ᴍɪꜱꜱ𓆩🇽𓆪𝗠𝗨𝗦𝗜𝗖
 </b><br>
 </p>
-<p align="center"><a href="https://t.me/Assaulted_dark"><img src="https://graph.org/file/b0f1d073efd823bd6fb30.jpg"></a></p>
+<p align="center"><a href="https://t.me/Assaulted_dark"><img src="https://graph.org/file/dc4993b1d1b2fd636e73a.jpg"></a></p>
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
